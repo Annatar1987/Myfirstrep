@@ -4,3 +4,7 @@ def hz():
     print(n)
 
 hz()
+
+
+a = 2
+b = 3
